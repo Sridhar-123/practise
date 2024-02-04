@@ -1,0 +1,9 @@
+/* PSEUDO CLASS SELECTOR */
+
+.button{
+    border-radius: 10px;
+}
+.button:hover{
+    color: hotpink;
+ 
+}
